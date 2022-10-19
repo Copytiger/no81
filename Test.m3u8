@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1XVPqHXx/BS-3-P.png" group-title="SPORTS",beIN 3 Premium-A https://webudi.openhd.lol/lb/premium100/index.m3u8
